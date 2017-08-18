@@ -1,0 +1,2 @@
+places =["London", "Stockholm","Brazil","Mumbai","Rome","Japan"]
+print (places)
